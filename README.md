@@ -1,3 +1,3 @@
 # datastructures-py
 
-Abstract Data Structures implemented using Python 3
+Abstract Data Structures implemented in Python 3
